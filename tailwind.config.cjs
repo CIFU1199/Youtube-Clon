@@ -12,8 +12,18 @@ module.exports = {
     colors: {
       'bg-color':'#181818',
       'dark-bg': '#212121',
+      'dark-400':'#a1a1aa',
+      'dark-600':'#52525b',
       'dark-800':'#27272a', 
       'dark-900':'#18181b',
+
+
+
+      'gray-700':'#374151',
+
+      'slate-600':'#475569',
+
+      
       'red-logo' : '#ff0000',
       'white' : '#ffffff'
       
