@@ -28,7 +28,7 @@ const Home = () => {
 
   },[dispatch])
 
-  /* console.log('data get successfully')  */ 
+  console.log('data get successfully')  
   return (
     <div className='max-h-screen overflow-hidden'>
         <div className='Viewport-Height-NB' >
