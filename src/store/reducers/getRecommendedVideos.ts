@@ -8,7 +8,7 @@ import { YOUTUBE_API_URL } from "../../utils/constants";
 const API_KEY = import.meta.env.VITE_YOUTUBE_API_KEY
 
 export const getRecommendedVideos = createAsyncThunk(
-  "yotubeApp/getRecommendedVideos",
+  "youtubeApp/getRecommendedVideos",
   async (videoId: string, { getState }) => {
     const {
       youtubeApp: {
